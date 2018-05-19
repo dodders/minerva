@@ -1,0 +1,27 @@
+.App {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: white;
+  height: 30px;
+  color: darkblue;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.app-body {
+  font-size: medium;
+  margin: 0px;
+}
+
+.spacing {
+  margin-left: 10px;
+}
