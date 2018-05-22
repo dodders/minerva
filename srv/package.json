@@ -2,7 +2,7 @@
   "name": "minerva-srv",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "json-test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
